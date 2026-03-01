@@ -86,3 +86,12 @@ http://127.0.0.1:5000
 ## 📸 UI Preview
 
 ![Calculator UI](screenshot.png)
+
+---
+
+## 👤 Author
+**Chirag Gupta**
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
