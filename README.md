@@ -55,3 +55,28 @@ calci/
       ├── style.css
       └── script.js
 </pre>
+
+---
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+git clone https://github.com/chirag-g210/calci.git
+cd calci
+
+2️⃣ Create virtual environment (recommended)
+python -m venv venv
+
+Activate:
+
+Windows
+venv\Scripts\activate
+
+3️⃣ Install dependencies
+pip install flask
+
+4️⃣ Run the application
+python main.py
+
+5️⃣ Open in browser
+http://127.0.0.1:5000
