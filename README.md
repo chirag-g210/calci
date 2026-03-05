@@ -42,7 +42,7 @@ Flask
 ---
 
 ## 📁 Project Structure
-<pre>
+```
 calci/
 │── main.py
 │
@@ -54,7 +54,7 @@ calci/
 └── static/
       ├── style.css
       └── script.js
-</pre>
+```
 
 ---
 
